@@ -1,0 +1,4 @@
+# ninja log v5
+0	7457	1731597677371697568	/home/marco/PFC2/DreamScene360/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	b1c9ba2a942ca3b5
+0	14885	1731597684802974309	/home/marco/PFC2/DreamScene360/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	aed079acff24b956
+0	26390	1731597696304869428	/home/marco/PFC2/DreamScene360/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	66c3653acffe4d01
